@@ -150,7 +150,7 @@ AUTHENTICATION_BACKENDS = (
  'social_core.backends.facebook.FacebookOAuth2',
 )
 
-SITE_ID = 3
+SITE_ID = 2
 LOGIN_REDIRECT_URL = 'dashboard'
 LOGIN_URL = 'login'
 LOGOUT_URL = 'logout'
